@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Abdullah Al Noman
-#### Web designer and developer
+
 ![Web designer and developer](https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/233389844_554227869043918_8597708234786481422_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=wbijrITttJMAX_Nevii&_nc_ht=scontent.fcgp7-1.fna&oh=6f29545416b292de1749b7b4c5002c0e&oe=614ED84E)
 
-I am Noman.I am from bangladesh.I am a student of class 10.I am a web designer and developer.I learn Html,Css,Js etc
 
 Skills: JS / HTML / CSS
 
